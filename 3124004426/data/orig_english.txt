@@ -1,0 +1,1 @@
+Plagiarism detection is a common way for universities to check the originality of a thesis. The basic idea is to split the submitted paper and the reference database into small text units, then count how many of them can be found in the database, and finally divide the repeated words by the total words of the submitted paper.
