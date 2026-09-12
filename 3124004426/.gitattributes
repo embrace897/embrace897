@@ -1,0 +1,4 @@
+# 统一使用 LF 换行，避免 Windows / Linux 之间出现整文件级 diff
+* text=auto eol=lf
+*.txt text eol=lf
+*.py text eol=lf

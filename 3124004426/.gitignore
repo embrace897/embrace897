@@ -1,0 +1,32 @@
+# Python 运行产物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 覆盖率与质量分析产物
+.coverage
+coverage.xml
+htmlcov/
+reports/
+pylint.txt
+
+# 性能分析产物
+*.pstats
+prof/
+
+# 本地临时输出
+work/
+ans.txt
+answer.txt
+ans*.txt
+
+# 性能分析用的大型样例（由 tools/profile_runner.py 生成）
+**/data/big_*.txt
+
+# 编辑器配置
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+# 运行论文查重程序本身不需要任何第三方依赖，仅使用 Python 3.8+ 标准库。
+# 下面三个依赖只用于开发、单元测试、覆盖率统计与代码质量分析。
+pytest==9.1.1
+coverage==7.16.0
+pylint==4.0.8
+
+# 可选：只有生成 docs/images 下的文档图表时才需要（tools/make_charts.py）
+matplotlib==3.11.1
