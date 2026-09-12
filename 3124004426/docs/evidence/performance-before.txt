@@ -1,0 +1,26 @@
+原文 460579 字 / 414588 个特征
+抄袭版 464521 字 / 423922 个特征，重复率 0.78
+平均耗时 0.378 s（5 次）
+最快一次 0.374 s
+cProfile 详细统计已写入 prof\before.pstats
+         3337220 function calls in 0.844 seconds
+
+   Ordered by: internal time
+   List reduced from 66 to 12 due to restriction <12>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    77533    0.199    0.000    0.494    0.000 C:\Users\hgx897\Documents\Codex\2026-09-10\1-psp-2-psp-2-c\outputs\paper-check\学号\papercheck\tokenizer.py:51(_extract_run_tokens)
+   829832    0.184    0.000    0.278    0.000 C:\Users\hgx897\Documents\Codex\2026-09-10\1-psp-2-psp-2-c\outputs\paper-check\学号\papercheck\tokenizer.py:40(_encode_pair)
+        2    0.107    0.053    0.107    0.053 {built-in method unicodedata.normalize}
+  1659664    0.094    0.000    0.094    0.000 {built-in method builtins.ord}
+    77533    0.062    0.000    0.062    0.000 {built-in method _collections._count_elements}
+        2    0.039    0.019    0.703    0.352 C:\Users\hgx897\Documents\Codex\2026-09-10\1-psp-2-psp-2-c\outputs\paper-check\学号\papercheck\tokenizer.py:60(extract_tokens)
+    77535    0.031    0.000    0.042    0.000 C:\Users\hgx897\Documents\Codex\2026-09-10\1-psp-2-psp-2-c\outputs\paper-check\学号\papercheck\tokenizer.py:45(_iter_runs)
+    77535    0.024    0.000    0.129    0.000 D:\Python\Lib\collections\__init__.py:679(update)
+        2    0.021    0.010    0.021    0.010 {method 'sub' of 're.Pattern' objects}
+    77539    0.020    0.000    0.043    0.000 {built-in method builtins.isinstance}
+    77533    0.012    0.000    0.022    0.000 <frozen abc>:117(__instancecheck__)
+    77533    0.011    0.000    0.011    0.000 {method 'group' of 're.Match' objects}
+
+
+

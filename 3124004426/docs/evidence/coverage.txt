@@ -1,0 +1,8 @@
+Name                     Stmts   Miss Branch BrPart  Cover   Missing
+--------------------------------------------------------------------
+papercheck\__init__.py       5      0      0      0   100%
+papercheck\cli.py           29      0      8      0   100%
+papercheck\core.py          86      0     20      0   100%
+papercheck\errors.py        12      0      0      0   100%
+--------------------------------------------------------------------
+TOTAL                      132      0     28      0   100%

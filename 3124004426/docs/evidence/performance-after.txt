@@ -1,0 +1,26 @@
+原文 460579 字 / 414588 个特征
+抄袭版 464521 字 / 423922 个特征，重复率 0.78
+平均耗时 0.277 s（5 次）
+最快一次 0.276 s
+cProfile 详细统计已写入 prof\after.pstats
+         1212368 function calls in 0.435 seconds
+
+   Ordered by: internal time
+   List reduced from 65 to 12 due to restriction <12>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    77533    0.136    0.000    0.208    0.000 C:\Users\hgx897\Documents\Codex\2026-09-10\1-psp-2-psp-2-c\outputs\paper-check\学号\papercheck\tokenizer.py:41(_extract_run_tokens)
+        2    0.099    0.049    0.306    0.153 {built-in method _collections._count_elements}
+        2    0.097    0.048    0.097    0.048 {built-in method unicodedata.normalize}
+   898687    0.050    0.000    0.050    0.000 {built-in method builtins.ord}
+        2    0.020    0.010    0.020    0.010 {method 'sub' of 're.Pattern' objects}
+    77533    0.010    0.000    0.010    0.000 {method 'group' of 're.Match' objects}
+    77535    0.006    0.000    0.006    0.000 {method 'isascii' of 'str' objects}
+     7231    0.006    0.000    0.006    0.000 {method 'lower' of 'str' objects}
+    70308    0.004    0.000    0.004    0.000 {built-in method builtins.len}
+        4    0.003    0.001    0.003    0.001 {method 'decode' of 'bytes' objects}
+        4    0.001    0.000    0.001    0.000 {method 'replace' of 'str' objects}
+        2    0.001    0.000    0.001    0.000 {method 'read' of '_io.FileIO' objects}
+
+
+
