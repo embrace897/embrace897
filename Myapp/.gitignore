@@ -1,0 +1,18 @@
+# Python 运行产生的缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec
+
+# 程序运行时生成的文件（演示用的示例可以保留，这里默认忽略，按需删除本行）
+Exercises.txt
+Answers.txt
+Grade.txt
+
+# 编辑器
+.vscode/
+.idea/
