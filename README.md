@@ -9,6 +9,10 @@
 
 ![公开已合并 PR：6，涉及 2 个仓库](./assets/contributions-dark.svg)
 
+![贡献分布与合并时间：ai-agent-starter 5 个、vscode-docs 1 个；10 月 29 日合并 1 个，11 月 2 日合并 5 个](./assets/contribution-analytics-dark.svg)
+
+> 图表按公开已合并 PR 数统计；时间轴只展示有合并的日期，使用 UTC。
+
 | 仓库 | 已合并 PR | 主要内容 |
 | --- | ---: | --- |
 | [ThalzeronLabs/ai-agent-starter](https://github.com/ThalzeronLabs/ai-agent-starter) | 5 | 检索边界与向量维度校验、Embedding 缓存、CLI 分块配置、评测筛选和报告 |
