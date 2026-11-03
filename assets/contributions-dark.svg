@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="470" viewBox="0 0 962 470" role="img" aria-label="embrace897 public merged pull requests">
+<rect x="1" y="1" width="960" height="468" rx="8" fill="#0d1117" stroke="#3d444d"/>
+<path d="M9 1h944q8 0 8 8v26H1V9q0-8 8-8" fill="#151b23"/>
+<g fill="#9198a1" font-family="monospace" font-size="14"><text x="32" y="23">● ● ●</text><text x="360" y="23">embrace897 / contributions</text></g>
+<g font-family="monospace"><text x="40" y="78" fill="#4493f8" font-size="17">$ git log --merged --public</text>
+<text x="40" y="143" fill="#f0f6fc" font-size="48" font-weight="700">6</text><text x="330" y="143" fill="#f0f6fc" font-size="36">2</text><text x="650" y="143" fill="#4493f8" font-size="36">+6</text>
+<g fill="#9198a1" font-size="16"><text x="40" y="176">PUBLIC MERGED PRs</text><text x="330" y="176">REPOSITORIES</text><text x="650" y="176">LAST 30 DAYS</text></g>
+<path d="M40 207h882M40 292h882M40 370h882" stroke="#3d444d"/>
+<text x="40" y="239" fill="#9198a1" font-size="13">REPOSITORY</text><text x="725" y="239" fill="#9198a1" font-size="13">PRs / STARS</text>
+<text x="40" y="276" fill="#f0f6fc" font-size="18">ThalzeronLabs/ai-agent-starter</text><text x="730" y="276" fill="#4493f8" font-size="18">5 / 0</text><text x="40" y="338" fill="#f0f6fc" font-size="18">microsoft/vscode-docs</text><text x="730" y="338" fill="#4493f8" font-size="18">1 / 6682</text>
+<g fill="#9198a1" font-size="13"><text x="40" y="406">GitHub REST API · public only · excludes embrace897/*</text><text x="40" y="437">Verified 2026-11-03 · snapshot</text></g></g></svg>
