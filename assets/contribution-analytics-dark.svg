@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="460" viewBox="0 0 962 460" role="img" aria-label="Public merged PR charts: 5 ai-agent-starter, 1 vscode-docs; October 29: 1, November 2: 5">
+<rect x="1" y="1" width="960" height="458" rx="10" fill="#0d1117" stroke="#3d444d"/>
+<path d="M11 1h940q10 0 10 10v26H1V11q0-10 10-10" fill="#151b23"/>
+<g font-family="monospace"><text x="24" y="25" fill="#4493f8" font-size="15">● ● ●</text><text x="350" y="25" fill="#9198a1" font-size="13">contribution analytics / public</text>
+<text x="32" y="78" fill="#4493f8" font-size="18">$ contributions --visualize</text>
+<text x="32" y="114" fill="#f0f6fc" font-size="17">01 / REPOSITORY SHARE</text>
+<text x="515" y="114" fill="#f0f6fc" font-size="17">02 / MERGED PR TIMELINE</text>
+<path d="M480 101v290" stroke="#30363d"/>
+<text x="32" y="158" fill="#c9d1d9" font-size="15">ThalzeronLabs/ai-agent-starter</text>
+<rect x="32" y="174" width="400" height="22" rx="4" fill="#161b22"/><rect x="32" y="174" width="333.33" height="22" rx="4" fill="#4493f8"/>
+<text x="32" y="222" fill="#9198a1" font-size="14">5 merged PRs · 83.3%</text>
+<text x="32" y="266" fill="#c9d1d9" font-size="15">microsoft/vscode-docs</text>
+<rect x="32" y="282" width="400" height="22" rx="4" fill="#161b22"/><rect x="32" y="282" width="66.67" height="22" rx="4" fill="#a78bfa"/>
+<text x="32" y="330" fill="#9198a1" font-size="14">1 merged PR · 16.7%</text>
+<g stroke="#30363d"><path d="M550 330h370M550 290h370M550 250h370M550 210h370M550 170h370M550 130h370"/></g>
+<g fill="#9198a1" font-size="12"><text x="530" y="334">0</text><text x="530" y="254">2</text><text x="530" y="174">4</text></g>
+<rect x="605" y="290" width="70" height="40" rx="4" fill="#a78bfa"/><rect x="790" y="130" width="70" height="200" rx="4" fill="#4493f8"/>
+<g fill="#f0f6fc" font-size="17" text-anchor="middle"><text x="640" y="278">1</text><text x="825" y="122">5</text></g>
+<g fill="#9198a1" font-size="13" text-anchor="middle"><text x="640" y="355">2026-10-29</text><text x="825" y="355">2026-11-02</text></g>
+<text x="515" y="386" fill="#9198a1" font-size="12">Active merge dates only · UTC</text>
+<path d="M32 407h898" stroke="#30363d"/><text x="32" y="437" fill="#9198a1" font-size="12">GitHub API · 2026-11-03 · public merged PRs · excludes embrace897/* · static snapshot</text>
+</g></svg>
