@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="545" viewBox="0 0 800 545" role="img" aria-labelledby="title desc">
+<title id="title">Public merged pull requests</title><desc id="desc">12 PRs across 4 repositories. Dify and ai-agent-starter each have 5, OpenClaw and VS Code each have 1.</desc>
+<rect x="1" y="1" width="798" height="543" rx="12" fill="#0d1117" stroke="#3d444d"/>
+<path d="M13 1h774q12 0 12 12v30H1V13Q1 1 13 1" fill="#161b22"/>
+<circle cx="22" cy="22" r="5" fill="#ff7b72"/><circle cx="39" cy="22" r="5" fill="#e3b341"/><circle cx="56" cy="22" r="5" fill="#3fb950"/>
+<g font-family="Consolas, monospace" fill="#f0f6fc">
+<text x="400" y="27" text-anchor="middle" fill="#9198a1" font-size="14">embrace897 / open source</text>
+<text x="30" y="78" fill="#58a6ff" font-size="18">$ merged contributions</text>
+<text x="30" y="132" font-size="44" font-weight="700">12</text><text x="285" y="132" font-size="44" font-weight="700">4</text><text x="535" y="132" font-size="44" fill="#58a6ff" font-weight="700">+6</text>
+<g fill="#aab5c0" font-size="16"><text x="30" y="158">Merged PRs</text><text x="285" y="158">Repositories</text><text x="535" y="158">Since Nov 3 snapshot</text></g>
+<path d="M30 181h740M30 508h740" stroke="#30363d"/>
+<text x="30" y="218" font-size="18">By repository</text><text x="459" y="218" font-size="18">By merge date</text>
+<text x="30" y="253" font-size="15">langgenius/dify-official-plugins</text><text x="405" y="253" text-anchor="end" fill="#aab5c0" font-size="15">5</text><rect x="30" y="264" width="375" height="9" rx="4" fill="#21262d"/><rect x="30" y="264" width="156.25" height="9" rx="4" fill="#58a6ff"/>
+<text x="30" y="312" font-size="15">ThalzeronLabs/ai-agent-starter</text><text x="405" y="312" text-anchor="end" fill="#aab5c0" font-size="15">5</text><rect x="30" y="323" width="375" height="9" rx="4" fill="#21262d"/><rect x="30" y="323" width="156.25" height="9" rx="4" fill="#58a6ff"/>
+<text x="30" y="371" font-size="15">microsoft/vscode-docs</text><text x="405" y="371" text-anchor="end" fill="#aab5c0" font-size="15">1</text><rect x="30" y="382" width="375" height="9" rx="4" fill="#21262d"/><rect x="30" y="382" width="31.25" height="9" rx="4" fill="#58a6ff"/>
+<text x="30" y="430" font-size="15">openclaw/cookbook</text><text x="405" y="430" text-anchor="end" fill="#aab5c0" font-size="15">1</text><rect x="30" y="441" width="375" height="9" rx="4" fill="#21262d"/><rect x="30" y="441" width="31.25" height="9" rx="4" fill="#58a6ff"/>
+<path d="M459 445h311" stroke="#3d444d"/>
+<rect x="467" y="412" width="49" height="33" rx="4" fill="#58a6ff"/><text x="491" y="403" text-anchor="middle" font-size="16">1</text><text x="491" y="469" text-anchor="middle" fill="#aab5c0" font-size="14">10-29</text>
+<rect x="544" y="280" width="49" height="165" rx="4" fill="#58a6ff"/><text x="568" y="271" text-anchor="middle" font-size="16">5</text><text x="568" y="469" text-anchor="middle" fill="#aab5c0" font-size="14">11-02</text>
+<rect x="621" y="412" width="49" height="33" rx="4" fill="#58a6ff"/><text x="645" y="403" text-anchor="middle" font-size="16">1</text><text x="645" y="469" text-anchor="middle" fill="#aab5c0" font-size="14">11-05</text>
+<rect x="698" y="280" width="49" height="165" rx="4" fill="#58a6ff"/><text x="722" y="271" text-anchor="middle" font-size="16">5</text><text x="722" y="469" text-anchor="middle" fill="#aab5c0" font-size="14">11-10</text>
+<text x="30" y="531" fill="#aab5c0" font-size="13">GitHub public API · 2026-11-11 snapshot · merge dates UTC+8</text>
+</g></svg>
